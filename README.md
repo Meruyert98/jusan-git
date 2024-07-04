@@ -12,8 +12,19 @@
 
 ## Запуск (h2)
 
+### `script.sh`
+
 ```bash
-bash ./script.sh
+$ bash ./script.sh
+```
+
+### `username.sh`
+
+При запуске выводится мое имя
+
+```bash
+$ bash ./username.sh
+Meruyert Slamova
 ```
 
 ## Портирование (h2)
